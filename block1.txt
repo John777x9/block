@@ -1,2 +1,7 @@
-DOMAIN-KEYWORD,comment_service_ajax
-DOMAIN,youtubei.googleapis.com
+{
+  "version": 1,
+  "rules": [
+    "DOMAIN-KEYWORD,comment_service_ajax",
+    "DOMAIN,youtubei.googleapis.com"
+  ]
+}
