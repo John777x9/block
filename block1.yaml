@@ -1,3 +1,2 @@
-payload:
-  - DOMAIN-KEYWORD,comment_service_ajax
-  - DOMAIN,youtubei.googleapis.com
+DOMAIN-KEYWORD,comment_service_ajax
+DOMAIN,youtubei.googleapis.com
